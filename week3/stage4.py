@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 for page in range(1, 100, 10):
     print('{0}페이지'.format((page//10)+1))
     url = 'https://search.naver.com/search.naver?&where=news&query=오마이걸&sm=tab_tmr&frm=mr&nso=so:r,p:all,a:all&sort=0&start=' + str(page)
+
     # python에서 웹페이지에 들어가서 코드를 긁어오는 것
     # 네이버에서 데이터를 긁어오는 것을 막음
     # 그래서 브라우저웹에서 들어오는 것처럼 위장
