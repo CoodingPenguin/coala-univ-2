@@ -18,3 +18,10 @@
 - [점프 투 파이썬](https://wikidocs.net/book/1)
 - [W3School Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [구글 머신러닝 입문](https://developers.google.com/machine-learning/crash-course?hl=ko)
+----
+## 3, 4주차
+### 1. 참석자
+### 2. 진행자
+: `상호(3주차)`, `종수(4주차 Part1, 2)`, `정빈(4주차 Part3, 4)`
+### 3. 자료
+- [Python 3.7 공식 문서](https://docs.python.org/ko/3.7/index.html)
