@@ -1,5 +1,5 @@
 # Before Study
-파이썬 스터디를 시작하기 전에 파이썬 개발환경을 준비해야 합니다! 여기 아래에 있는 파일들을 설치해봅시다:)
+파이썬 스터디를 시작하기 전에 파이썬 개발 시 필요한 것들을 다운로드해야 합니다! 여기 아래에 있는 파일들을 설치해봅시다:)
 
 ## 1. Anaconda
 Anaconda는 파이썬으로 개발된 모듈과 라이브러리를 모아둔 것입니다. 이것만 깔면 `numpy`, `pandas`, `jupyter notebook`, `SciPy`, `ScikitLearn` 등의 모듈을 각자 설치할 필요없이 바로 사용할 수 있습니다.
@@ -9,6 +9,8 @@ Anaconda는 파이썬으로 개발된 모듈과 라이브러리를 모아둔 것
 <img src='./img/anaconda.png' width=80%>
 
 ## 2. Jupyter Notebook
+`Jupyter Notebook`은 웹 브라우저에서 파이썬 코드를 작성하고 실행해볼 수 있는 개발도구입니다. 자세한 내용은 [여기](http://pythonstudy.xyz/python/article/514-Jupyter-Notebook)를 참고해주세요!
+
 ### 2.1. 키는 법
 * 검색에 `Jupyter Notebook`이라 치면, `Jupyter Notebook` 명령을 실행시킵니다.
 
@@ -20,7 +22,7 @@ Anaconda는 파이썬으로 개발된 모듈과 라이브러리를 모아둔 것
 <img src='./img/jupyter2.png' width=80%>
 
 ### 2.2. 끄는 법
-* Jupyter Notebook의 `Quit` 버튼을 클릭한다.
+* Jupyter Notebook의 `Quit` 버튼을 클릭합니다.
 
 <img src='./img/jupyter3.png' width=80%>
 
