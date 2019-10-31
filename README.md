@@ -25,3 +25,4 @@
 : `상호(3주차)`, `종수(4주차 Part1, 2)`, `정빈(4주차 Part3, 4)`
 ### 3. 자료
 - [Python 3.7 공식 문서](https://docs.python.org/ko/3.7/index.html)
+- [파이썬 코린이 스터디 Day1 자료](https://github.com/CoodingPenguin/coala-univ-2/tree/master/python-beginner-study/Day1)
