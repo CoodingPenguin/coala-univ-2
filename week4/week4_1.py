@@ -2,7 +2,7 @@ singers = ['오마이걸', '러블리즈', '드림캐처', '우주소녀']
 songs = ['불꽃놀이', '종소리', '데자부', '부탁해']
 
 # 파일 열기 없으면 생성( 파일 이름, write/read/append )
-f = open('hitsong.csv', 'w')
+f = open('hitsong.csv', 'w', encoding='cp949')
 
 
 for i in range(len(singers)):

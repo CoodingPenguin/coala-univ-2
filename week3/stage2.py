@@ -28,3 +28,6 @@ for clip in clips:
 
     print('제목 : {0}, 채널명 : {1}, 재생수 : {2}, 좋아요 : {3}'.format(title, chn, hit, like))
     print('='*40)
+
+# find_all vs. select
+# find vs. select_one
