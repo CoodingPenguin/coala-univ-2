@@ -48,6 +48,7 @@ for m in movies:
     raw2 = requests.get(link_to)
     code2 = BeautifulSoup(raw2.text, 'html.parser')
 
+    # 이미지 추출
     img = code2.select_one('div.poster img')
     img_url = img.attrs['src']
     urlretrieve(img_url, './poster/'+title[:8]+'.jpg')
