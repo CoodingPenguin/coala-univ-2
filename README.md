@@ -31,9 +31,12 @@
 |Part2 1주차 복습 스터디|2019년 11월 22일|중앙도서관 1층 창의문화스터디룸12|`상호`|#데이터_사이언스 #엑셀로_타이타닉_생존자_예측|
 |Part2 2주차 복습 스터디|2019년 11월 29일|중앙도서관 2층 팀플룸3|`예진`|#pandas_데이터_분석 #plt_sns로_데이터_시각화 #Pandas_스터디_Day1|
 |Part2 3주차 복습 스터디|2019년 12월 6일|중앙도서관 3층 스터디룸4|`종수`|#타이타닉_데이터_분석 #Pandas_Seaborn #Pandas_스터디_Day2|
+|Part2 5주차 복습 스터디|2019년 12월 30일|중앙도서관 2층 팀플룸4|`주형`|#최소제곱법 #선형_회귀 #커브_피팅 #상관계수_결정계수 #피처_스케일링 #릿지_랏쏘|
+|Part2 6주차 복습 스터디|2019년 12월 30일|중앙도서관 2층 팀플룸4|`소현`|#손글씨_숫자_분류기 #와인_품질_예측기 #SVM #CNN으로_손글씨_숫자_분류기|
+|Part2 4주차 복습 스터디|2020년 1월 3일|중앙도서관 3층 스터디룸3|`정빈`|#랜덤포레스트 #Weka #KFold_교차검증 #원_핫_인코딩|
 
 ## 4. 자료
-* [Part1 Week1 PPT](https://github.com/CoodingPenguin/coala-univ-2/blob/master/week1/material/week1_part_3%2C4_sohyun.pdf)
+* [Part1 Week1 PPT](https://github.com/CoodingPenguin/coala-univ-2/blob/master/part1-data-crawling/week1/material/week1_part_3%2C4_sohyun.pdf)
 * [자주 쓰이는 태그 Top 100](https://www.advancedwebranking.com/html/)
 * [네이버 robotx.txt](https://www.naver.com/robots.txt)
 * [점프 투 파이썬](https://wikidocs.net/book/1)
@@ -44,3 +47,6 @@
 * [Numpy 스터디 자료](https://github.com/CoodingPenguin/coala-univ-2/tree/master/numpy-study)
 * [Pandas 스터디 자료](https://github.com/CoodingPenguin/coala-univ-2/tree/master/pandas-study)
 * [네이버 신(新)지도 웹 크롤링 코드](https://gist.github.com/IamGroooooot/9e682ad8d800db9a06d86954d0421e4b)
+* [Part2 Week4 PPT](https://github.com/CoodingPenguin/coala-univ-2/tree/master/part2-data-science/week4/material)
+* [Part2 Week5 PPT](https://github.com/CoodingPenguin/coala-univ-2/tree/master/part2-data-science/week5/material)
+* [Part2 Week6 PPT](https://github.com/CoodingPenguin/coala-univ-2/tree/master/part2-data-science/week6/material)
