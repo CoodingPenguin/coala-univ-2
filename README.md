@@ -12,10 +12,10 @@
 * `Pandas 스터디` : 코알라 유니브 외에 Pandas 모듈 공부 + 자체 문제로 실습
 * `파이썬 코린이 스터디` : `예진`을 위해서 만든 코린이 스터디 by Python
 
-## 2. 팀원
+## 3. 팀원
 `주형`, `예진`, `정빈`, `종수`, `소현`, `상호`, `혜지`
 
-## 3. 진행
+## 4. 진행
 |스터디|날짜|장소|진행자|내용|
 |:---:|:---:|:---:|:---:|:---:|
 |Part1 1주차 복습 스터디|2019년 10월 4일|310관 731호|`예진`,`소현`|#HTML #태그 #class #id #선택자 #크롬_검사|
@@ -35,10 +35,10 @@
 |Part2 6주차 복습 스터디|2019년 12월 30일|중앙도서관 2층 팀플룸4|`소현`|#손글씨_숫자_분류기 #와인_품질_예측기 #SVM #CNN으로_손글씨_숫자_분류기|
 |Part2 4주차 복습 스터디|2020년 1월 3일|중앙도서관 3층 스터디룸3|`정빈`|#랜덤포레스트 #Weka #KFold_교차검증 #원_핫_인코딩|
 
-## 4. 자료
+## 5. 자료
 * [Part1 Week1 PPT](https://github.com/CoodingPenguin/coala-univ-2/blob/master/part1-data-crawling/week1/material/week1_part_3%2C4_sohyun.pdf)
 * [자주 쓰이는 태그 Top 100](https://www.advancedwebranking.com/html/)
-* [네이버 robotx.txt](https://www.naver.com/robots.txt)
+* [네이버 robots.txt](https://www.naver.com/robots.txt)
 * [점프 투 파이썬](https://wikidocs.net/book/1)
 * [W3School Python Tutorial](https://www.w3schools.com/python/default.asp)
 * [구글 머신러닝 입문](https://developers.google.com/machine-learning/crash-course?hl=ko)
