@@ -50,3 +50,14 @@
 * [Part2 Week4 PPT](https://github.com/CoodingPenguin/coala-univ-2/tree/master/part2-data-science/week4/material)
 * [Part2 Week5 PPT](https://github.com/CoodingPenguin/coala-univ-2/tree/master/part2-data-science/week5/material)
 * [Part2 Week6 PPT](https://github.com/CoodingPenguin/coala-univ-2/tree/master/part2-data-science/week6/material)
+
+## 6. 해커톤
+팀원이 7명인 관계로 두 팀으로 나누어 해커톤에 출전하였습니다.
+* **공공경경 팀([노래가사로 장르 예측](https://github.com/IamGroooooot/genres-classification-by-lyrics))** : `소현(팀장)`, `주형`, `혜지`, `예진`
+* **공공공 팀(칵테일 조합 추천)** : `종수(팀장)`, `정빈`, `상호`
+
+|행사|날짜|장소|
+|:---:|:---:|:---:|
+|해커톤 준비세션|2020년 1월 4일|서강대 정하상관|
+|해커톤 구현세션|2020년 1월 11일|서울북부창업디딤터 B1 대강의실|
+|해커톤 발표세션|2020년 1월 17일|공덕 서울창업허브 10층|
