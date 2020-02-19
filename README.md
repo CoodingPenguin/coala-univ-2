@@ -26,11 +26,11 @@
 <table>
     <thread>
         <tr>
-            <th align="center" width="20%">스터디</th>
+            <th align="center" width="15%">스터디</th>
             <th align="center" width="10%">날짜</th>
             <th align="center" width="23%">장소</th>
             <th align="center" width="12%">진행자</th>
-            <th align="center" width="35%">내용</th>
+            <th align="center" width="40%">내용</th>
         </tr>
     </thread>
     <tbody>
