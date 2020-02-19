@@ -44,7 +44,7 @@
         <tr>
             <td align="center">Part1 2주차<br>복습 스터디</td>
             <td align="center">2019.10.11</td>
-            <td align="center">중앙도서관<br>스터디룸1</td>
+            <td align="center">중앙도서관 스터디룸1</td>
             <td align="center">주형, 혜지</td>
             <td align="center">#파이썬_문법 #변수 #자료형 #입출력 #문자열 #리스트 #for문</td>
         </tr>
@@ -100,7 +100,7 @@
         <tr>
             <td align="center">Day4 코린이<br>파이썬 스터디</td>
             <td align="center">2019.11.18</td>
-            <td align="center">중앙도서관<br>팀플룸2</td>
+            <td align="center">중앙도서관 팀플룸2</td>
             <td align="center">소현</td>
             <td align="center">#클래스 #모듈 #예외처리</td>
         </tr>
@@ -114,35 +114,35 @@
         <tr>
             <td align="center">Part2 2주차<br>복습 스터디</td>
             <td align="center">2019.11.29</td>
-            <td align="center">중앙도서관<br>팀플룸3</td>
+            <td align="center">중앙도서관 팀플룸3</td>
             <td align="center">예진</td>
             <td align="center">#pandas_데이터_분석 #plt_sns로_데이터_시각화 #Pandas_스터디_Day1</td>
         </tr>
         <tr>
             <td align="center">Part2 3주차<br>복습 스터디</td>
             <td align="center">2019.12.06</td>
-            <td align="center">중앙도서관<br>스터디룸4</td>
+            <td align="center">중앙도서관 스터디룸4</td>
             <td align="center">종수</td>
             <td align="center">#타이타닉_데이터_분석 #Pandas_Seaborn #Pandas_스터디_Day2</td>
         </tr>
         <tr>
             <td align="center">Part2 5주차<br>복습 스터디</td>
             <td align="center">2019.12.30</td>
-            <td align="center">중앙도서관<br>팀플룸4</td>
+            <td align="center">중앙도서관 팀플룸4</td>
             <td align="center">주형</td>
             <td align="center">#최소제곱법 #선형_회귀 #커브_피팅 #상관계수_결정계수 #피처_스케일링 #릿지_랏쏘</td>
         </tr>
         <tr>
             <td align="center">Part2 6주차<br>복습 스터디</td>
             <td align="center">2019.12.30</td>
-            <td align="center">중앙도서관<br>팀플룸4</td>
+            <td align="center">중앙도서관 팀플룸4</td>
             <td align="center">소현</td>
             <td align="center">#손글씨_숫자_분류기 #와인_품질_예측기 #SVM #CNN으로_손글씨_숫자_분류기</td>
         </tr>
         <tr>
             <td align="center">Part2 4주차<br>복습 스터디</td>
             <td align="center">2020.01.03</td>
-            <td align="center">중앙도서관<br>스터디룸3</td>
+            <td align="center">중앙도서관 스터디룸3</td>
             <td align="center">정빈</td>
             <td align="center">#랜덤포레스트 #Weka #KFold_교차검증 #원_핫_인코딩</td>
         </tr>
