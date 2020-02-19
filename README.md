@@ -86,7 +86,7 @@
         <tr>
             <td align="center">Day3 코린이<br>파이썬 스터디</td>
             <td align="center">2019.11.11</td>
-            <td align="center">310관<br>622호</td>
+            <td align="center">310관 622호</td>
             <td align="center">소현</td>
             <td align="center">#함수 #lambda식 #고차함수</td>
         </tr>
