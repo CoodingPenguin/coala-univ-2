@@ -23,24 +23,131 @@
 
 ## 4. 진행
 
-|          스터디           |       날짜       |               장소                |    진행자     |                                            내용                                            |
-| :-----------------------: | :--------------: | :-------------------------------: | :-----------: | :----------------------------------------------------------------------------------------: |
-|  Part1 1주차 복습 스터디  | 2019년 10월 4일  |            310관 731호            | `예진`,`소현` |                         #HTML #태그 #class #id #선택자 #크롬_검사                         |
-|  Part1 2주차 복습 스터디  | 2019년 10월 11일 |     중앙도서관 3층 스터디룸1      | `주형`,`혜지` |                 #파이썬_문법 #변수 #자료형 #입출력 #문자열 #리스트 #for문                 |
-| 코린이 파이썬 스터디 Day1 | 2019년 10월 30일 | 중앙도서관 1층 창의문화스터디룸12 |    `소현`     |                           #변수 #자료형 #포맷팅 #입출력 #제어문                            |
-|  Part1 3주차 복습 스터디  | 2019년 11월 1일  |            310관 731호            |    `상호`     |                    #requests #Beautifulsoup #데이터_크롤링 #데이터_가공                    |
-|  Part1 4주차 복습 스터디  | 2019년 11월 1일  |            310관 731호            | `종수`,`정빈` |                      #가공된_데이터를_csv로 #가공된*데이터를_xlsx로                      |
-| 코린이 파이썬 스터디 Day2 | 2019년 11월 4일  | 중앙도서관 1층 창의문화스터디룸11 |    `소현`     |                            #컬렉션 #리스트 #딕셔너리 #Set #튜플                            |
-|  Part1 5주차 복습 스터디  | 2019년 11월 8일  |            310관 731호            |    `소현`     | #같은_선택자_순서로_구분 #if로_원하는_데이터_수집 #이미지_데이터_수집 #Numpy_스터디_Day1 |
-| 코린이 파이썬 스터디 Day3 | 2019년 11월 11일 |            310관 622호            |    `소현`     |                                 #함수 #lambda식 #고차함수                                  |
-|  Part1 6주차 복습 스터디  | 2019년 11월 15일 |            310관 731호            |    `혜지`     |                     #정적_동적_웹페이지 #셀레니움 #Numpy_스터디_Day1                     |
-| 코린이 파이썬 스터디 Day4 | 2019년 11월 18일 |      중앙도서관 2층 팀플룸2       |    `소현`     |                                  #클래스 #모듈 #예외처리                                   |
-|  Part2 1주차 복습 스터디  | 2019년 11월 22일 | 중앙도서관 1층 창의문화스터디룸12 |    `상호`     |                       #데이터_사이언스 #엑셀로_타이타닉_생존자*예측                        |
-|  Part2 2주차 복습 스터디  | 2019년 11월 29일 |      중앙도서관 2층 팀플룸3       |    `예진`     |             #pandas_데이터_분석 #plt_sns로_데이터_시각화 #Pandas_스터디\_Day1              |
-|  Part2 3주차 복습 스터디  | 2019년 12월 6일  |     중앙도서관 3층 스터디룸4      |    `종수`     |                 #타이타닉_데이터_분석 #Pandas_Seaborn #Pandas_스터디_Day2                 |
-|  Part2 5주차 복습 스터디  | 2019년 12월 30일 |      중앙도서관 2층 팀플룸4       |    `주형`     |      #최소제곱법 #선형_회귀 #커브_피팅 #상관계수_결정계수 #피처_스케일링 #릿지_랏쏘       |
-|  Part2 6주차 복습 스터디  | 2019년 12월 30일 |      중앙도서관 2층 팀플룸4       |    `소현`     |          #손글씨_숫자_분류기 #와인_품질_예측기 #SVM #CNN으로_손글씨_숫자_분류기           |
-|  Part2 4주차 복습 스터디  |  2020년 1월 3일  |     중앙도서관 3층 스터디룸3      |    `정빈`     |                     #랜덤포레스트 #Weka #KFold_교차검증 #원_핫_인코딩                     |
+<table>
+    <thread>
+        <tr>
+            <th align="center" width="20%">스터디</th>
+            <th align="center" width="10%">날짜</th>
+            <th align="center" width="23%">장소</th>
+            <th align="center" width="12%">진행자</th>
+            <th align="center" width="35%">내용</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr>
+            <td align="center">Part1 1주차<br>복습 스터디</td>
+            <td align="center">2019.10.04</td>
+            <td align="center">310관 731호</td>
+            <td align="center">예진, 소현</td>
+            <td align="center">#HTML #태그 #class #id #선택자 #크롬_검사</td>
+        </tr>
+        <tr>
+            <td align="center">Part1 2주차<br>복습 스터디</td>
+            <td align="center">2019.10.11</td>
+            <td align="center">중앙도서관<br>스터디룸1</td>
+            <td align="center">주형, 혜지</td>
+            <td align="center">#파이썬_문법 #변수 #자료형 #입출력 #문자열 #리스트 #for문</td>
+        </tr>
+        <tr>
+            <td align="center">Day1 코린이<br>파이썬 스터디</td>
+            <td align="center">2019.10.30</td>
+            <td align="center">중앙도서관<br>창의문화스터디룸12</td>
+            <td align="center">소현</td>
+            <td align="center">#변수 #자료형 #포맷팅 #입출력 #제어문</td>
+        </tr>
+        <tr>
+            <td align="center">Part1 3주차<br>복습 스터디</td>
+            <td align="center">2019.11.01</td>
+            <td align="center">310관 731호</td>
+            <td align="center">상호</td>
+            <td align="center">#requests #Beautifulsoup #데이터_크롤링 #데이터_가공</td>
+        </tr>
+        <tr>
+            <td align="center">Part1 4주차<br>복습 스터디</td>
+            <td align="center">2019.11.01</td>
+            <td align="center">310관 731호</td>
+            <td align="center">종수, 정빈</td>
+            <td align="center">#가공된_데이터를_csv로 #가공된*데이터를_xlsx로</td>
+        </tr>
+        <tr>
+            <td align="center">Day2 코린이<br>파이썬 스터디</td>
+            <td align="center">2019.11.04</td>
+            <td align="center">중앙도서관<br>창의문화스터디룸11</td>
+            <td align="center">소현</td>
+            <td align="center">#컬렉션 #리스트 #딕셔너리 #Set #튜플</td>
+        </tr>
+        <tr>
+            <td align="center">Part1 5주차<br>복습 스터디</td>
+            <td align="center">2019.11.08</td>
+            <td align="center">310관 731호</td>
+            <td align="center">소현</td>
+            <td align="center">#같은_선택자_순서로_구분 #if로_원하는_데이터_수집 #이미지_데이터_수집 #Numpy_스터디_Day1</td>
+        </tr>
+        <tr>
+            <td align="center">Day3 코린이<br>파이썬 스터디</td>
+            <td align="center">2019.11.11</td>
+            <td align="center">310관<br>622호</td>
+            <td align="center">소현</td>
+            <td align="center">#함수 #lambda식 #고차함수</td>
+        </tr>
+        <tr>
+            <td align="center">Part1 6주차<br>복습 스터디</td>
+            <td align="center">2019.11.15</td>
+            <td align="center">310관 731호</td>
+            <td align="center">혜지</td>
+            <td align="center">#정적_동적_웹페이지 #셀레니움 #Numpy_스터디_Day1</td>
+        </tr>
+        <tr>
+            <td align="center">Day4 코린이<br>파이썬 스터디</td>
+            <td align="center">2019.11.18</td>
+            <td align="center">중앙도서관<br>팀플룸2</td>
+            <td align="center">소현</td>
+            <td align="center">#클래스 #모듈 #예외처리</td>
+        </tr>
+        <tr>
+            <td align="center">Part2 1주차<br>복습 스터디</td>
+            <td align="center">2019.11.22</td>
+            <td align="center">중앙도서관<br>창의문화스터디룸12</td>
+            <td align="center">상호</td>
+            <td align="center">#데이터_사이언스 #엑셀로_타이타닉_생존자예측</td>
+        </tr>
+        <tr>
+            <td align="center">Part2 2주차<br>복습 스터디</td>
+            <td align="center">2019.11.29</td>
+            <td align="center">중앙도서관<br>팀플룸3</td>
+            <td align="center">예진</td>
+            <td align="center">#pandas_데이터_분석 #plt_sns로_데이터_시각화 #Pandas_스터디_Day1</td>
+        </tr>
+        <tr>
+            <td align="center">Part2 3주차<br>복습 스터디</td>
+            <td align="center">2019.12.06</td>
+            <td align="center">중앙도서관<br>스터디룸4</td>
+            <td align="center">종수</td>
+            <td align="center">#타이타닉_데이터_분석 #Pandas_Seaborn #Pandas_스터디_Day2</td>
+        </tr>
+        <tr>
+            <td align="center">Part2 5주차<br>복습 스터디</td>
+            <td align="center">2019.12.30</td>
+            <td align="center">중앙도서관<br>팀플룸4</td>
+            <td align="center">주형</td>
+            <td align="center">#최소제곱법 #선형_회귀 #커브_피팅 #상관계수_결정계수 #피처_스케일링 #릿지_랏쏘</td>
+        </tr>
+        <tr>
+            <td align="center">Part2 6주차<br>복습 스터디</td>
+            <td align="center">2019.12.30</td>
+            <td align="center">중앙도서관<br>팀플룸4</td>
+            <td align="center">소현</td>
+            <td align="center">#손글씨_숫자_분류기 #와인_품질_예측기 #SVM #CNN으로_손글씨_숫자_분류기</td>
+        </tr>
+        <tr>
+            <td align="center">Part2 4주차<br>복습 스터디</td>
+            <td align="center">2020.01.03</td>
+            <td align="center">중앙도서관<br>스터디룸3</td>
+            <td align="center">정빈</td>
+            <td align="center">#랜덤포레스트 #Weka #KFold_교차검증 #원_핫_인코딩</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 5. 자료
 
@@ -66,8 +173,29 @@
 - **공공경경 팀([사용자 맞춤 악성댓글 필터링](https://github.com/users/IamGroooooot/projects/1))** : `소현(팀장)`, `주형`, `혜지`, `예진`
 - **공공공 팀(크리에이터 맞춤 스팀 게임 추천)** : `종수(팀장)`, `정빈`, `상호`
 
-|      행사       |      날짜       |              장소              |
-| :-------------: | :-------------: | :----------------------------: |
-| 해커톤 준비세션 | 2020년 1월 4일  |        서강대 정하상관         |
-| 해커톤 구현세션 | 2020년 1월 11일 | 서울북부창업디딤터 B1 대강의실 |
-| 해커톤 발표세션 | 2020년 1월 17일 |     공덕 서울창업허브 10층     |
+<table>
+    <thread>
+        <tr>
+            <th align="center" width="25%">행사</th>
+            <th align="center" width="25%">날짜</th>
+            <th align="center" width="50%">장소</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr>
+            <td align="center">해커톤 준비세션</td>
+            <td align="center">2020.01.04</td>
+            <td align="center">서강대 정하상관</td>
+        </tr>
+        <tr>
+            <td align="center">해커톤 구현세션</td>
+            <td align="center">2020.01.11</td>
+            <td align="center">서울북부창업디딤터 대강의실</td>
+        </tr>
+        <tr>
+            <td align="center">해커톤 발표세션</td>
+            <td align="center">2020.01.17</td>
+            <td align="center">공덕 서울창업허브 10층</td>
+        </tr>
+    </tbody>
+</table>
