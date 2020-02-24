@@ -170,7 +170,7 @@
 
 팀원이 7명인 관계로 두 팀으로 나누어 해커톤에 출전하였습니다.
 
-- **공공경경 팀([사용자 맞춤 악성댓글 필터링](https://github.com/IamGroooooot/customized-toxic-comment-filtering)** : `소현(팀장)`, `주형`, `혜지`, `예진`
+- **공공경경 팀([사용자 맞춤 악성댓글 필터링](https://github.com/IamGroooooot/customized-toxic-comment-filtering))** : `소현(팀장)`, `주형`, `혜지`, `예진`
 - **공공공 팀(크리에이터 맞춤 스팀 게임 추천)** : `종수(팀장)`, `정빈`, `상호`
 
 <table>
