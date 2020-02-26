@@ -151,20 +151,13 @@
 
 ## 5. 자료
 
-- [Part1 Week1 PPT](https://github.com/CoodingPenguin/coala-univ-2/blob/master/part1-data-crawling/week1/material/week1_part_3%2C4_sohyun.pdf)
 - [자주 쓰이는 태그 Top 100](https://www.advancedwebranking.com/html/)
 - [네이버 robots.txt](https://www.naver.com/robots.txt)
 - [점프 투 파이썬](https://wikidocs.net/book/1)
 - [W3School Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [구글 머신러닝 입문](https://developers.google.com/machine-learning/crash-course?hl=ko)
 - [Python 3.7 Documentation](https://docs.python.org/ko/3.7/index.html)
-- [파이썬 코린이 스터디 자료](https://github.com/CoodingPenguin/coala-univ-2/tree/master/python-beginner-study)
-- [Numpy 스터디 자료](https://github.com/CoodingPenguin/coala-univ-2/tree/master/numpy-study)
-- [Pandas 스터디 자료](https://github.com/CoodingPenguin/coala-univ-2/tree/master/pandas-study)
 - [네이버 신(新)지도 웹 크롤링 코드](https://gist.github.com/IamGroooooot/9e682ad8d800db9a06d86954d0421e4b)
-- [Part2 Week4 PPT](https://github.com/CoodingPenguin/coala-univ-2/tree/master/part2-data-science/week4/material)
-- [Part2 Week5 PPT](https://github.com/CoodingPenguin/coala-univ-2/tree/master/part2-data-science/week5/material)
-- [Part2 Week6 PPT](https://github.com/CoodingPenguin/coala-univ-2/tree/master/part2-data-science/week6/material)
 
 ## 6. 해커톤
 
